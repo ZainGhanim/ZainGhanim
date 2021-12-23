@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Sajjad-Albadri.
 - 👀 I’m interested in computer programming.
 - 🌱 I’m currently studying computer science at Syracuse University.
-- 💞️ I’m looking to collaborate on mnay projects, contribute and learn new things everyday.
+- 💞️ I’m looking to collaborate on many projects, contribute and learn new things everyday.
 - 📫 You can reach me by email at saalbadr@syr.edu
 
 <!---
